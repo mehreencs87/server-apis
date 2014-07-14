@@ -1,0 +1,25 @@
+{
+  "name": "auth0-server-platforms",
+  "version": "0.0.1",
+  "description": "Server APIs supported by Auth0's service",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:auth0/server-apis.git"
+  },
+  "keywords": [
+    "auth0",
+    "server",
+    "API",
+    "browser"
+  ],
+  "author": "Auth0, Inc. <hello@auth0.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/server-apis/issues"
+  },
+  "homepage": "https://github.com/auth0/server-apis"
+}
