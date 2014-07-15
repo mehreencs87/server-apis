@@ -1,5 +1,5 @@
 {
-  "name": "server-platforms",
+  "name": "server-apis",
   "description": "Server APIs supported by Auth0's service",
   "json": [
     "index.json"
