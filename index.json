@@ -75,5 +75,26 @@
     "url": "/wams",
     "thirdParty": true,
     "image": "//auth0.com/platforms-collection/img/azure.png"
+  },
+  {
+    "title": "Firebase",
+    "name": "firebase",
+    "url": "/firebase-tutorial",
+    "thirdParty": true,
+    "image": "//auth0.com/saas-collection/img/firebase.png"
+  },
+  {
+    "title": "Salesforce",
+    "name": "salesforce",
+    "url": "/salesforce-tutorial",
+    "thirdParty": true,
+    "image": "//auth0.com/saas-collection/img/salesforce.png"
+  },
+  {
+    "title": "Salesforce (sandbox)",
+    "name": "salesforce-sandbox",
+    "url": "/salesforcesandbox-tutorial",
+    "thirdParty": true,
+    "image": "//auth0.com/saas-collection/img/salesforce.png"
   }
 ]
