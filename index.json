@@ -79,21 +79,21 @@
   {
     "title": "Firebase",
     "name": "firebase",
-    "url": "/firebase-tutorial",
+    "url": "/firebaseapi-tutorial",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/firebase.png"
   },
   {
     "title": "Salesforce",
     "name": "salesforce",
-    "url": "/salesforce-tutorial",
+    "url": "/salesforceapi-tutorial",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/salesforce.png"
   },
   {
     "title": "Salesforce (sandbox)",
     "name": "salesforce-sandbox",
-    "url": "/salesforcesandbox-tutorial",
+    "url": "/salesforcesandboxapi-tutorial",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/salesforce.png"
   }
