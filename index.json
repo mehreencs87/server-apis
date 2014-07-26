@@ -23,7 +23,14 @@
   {
     "title": "Ruby API",
     "name": "rubyapi",
-    "url": "/rubyapi-tutorial",
+    "url": "/new/server-apis/ruby",
+    "thirdParty": false,
+    "image": "//auth0.com/platforms-collection/img/rails.png"
+  },
+  {
+    "title": "Ruby On Rails API",
+    "name": "rorapi",
+    "url": "/new/server-apis/rails",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
@@ -44,7 +51,7 @@
   {
     "title": "Java API",
     "name": "javaapi",
-    "url": "/javaapi-tutorial",
+    "url": "/new/server-apis/java",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/java.png"
   },
