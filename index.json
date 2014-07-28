@@ -1,77 +1,77 @@
 [
   {
     "title": "ASP.NET Web API",
-    "name": "aspnetwebapi",
+    "name": "aspnetweb-api",
     "url": "/aspnetwebapi-tutorial",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
     "title": "ASP.NET Web API (OWIN)",
-    "name": "aspnetwebapi-owin",
+    "name": "aspnetweb-owin-api",
     "url": "/aspnetwebapi-owin-tutorial",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
     "title": "Node.js API",
-    "name": "nodeapi",
+    "name": "node-api",
     "url": "/new/server-apis/nodejs",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/node.png"
   },
   {
     "title": "Ruby API",
-    "name": "rubyapi",
+    "name": "ruby-api",
     "url": "/new/server-apis/ruby",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
   {
     "title": "Ruby On Rails API",
-    "name": "rorapi",
+    "name": "ror-api",
     "url": "/new/server-apis/rails",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
   {
     "title": "PHP API",
-    "name": "phpapi",
+    "name": "php-api",
     "url": "/phpapi-tutorial",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
     "title": "PHP (Laravel) API",
-    "name": "laravelapi",
+    "name": "laravel-api",
     "url": "/laravelapi-tutorial",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
     "title": "Java API",
-    "name": "javaapi",
+    "name": "java-api",
     "url": "/new/server-apis/java",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/java.png"
   },
   {
     "title": "Python API",
-    "name": "pythonapi",
+    "name": "python-api",
     "url": "/pythonapi-tutorial",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/python.png"
   },
   {
     "title": ".NET WCF",
-    "name": "wcf",
+    "name": "wcf-api",
     "url": "/wcf-tutorial",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/wcf.png"
   },
   {
     "title": "AWS",
-    "name": "awsapi",
+    "name": "aws",
     "url": "/awsapi-tutorial",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/aws.png"
