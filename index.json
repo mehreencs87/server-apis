@@ -57,7 +57,7 @@
   },
   {
     "title": "Python API",
-    "name": "pythonapi",
+    "name": "python-api",
     "url": "/new/server-apis/python",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/python.png"
