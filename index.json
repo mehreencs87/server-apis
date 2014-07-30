@@ -37,7 +37,7 @@
   {
     "title": "PHP API",
     "name": "php-api",
-    "url": "/phpapi-tutorial",
+    "url": "/new/server-apis/php",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
