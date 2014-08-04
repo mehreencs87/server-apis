@@ -2,7 +2,7 @@
   {
     "title": "ASP.NET Web API",
     "name": "aspnetweb-api",
-    "url": "/aspnetwebapi-tutorial",
+    "url": "/new/server-apis/aspnet-webapi",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
@@ -44,7 +44,7 @@
   {
     "title": "PHP (Laravel) API",
     "name": "laravel-api",
-    "url": "/laravelapi-tutorial",
+    "url": "/new/server-apis/php-laravel",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
