@@ -103,5 +103,12 @@
     "url": "/salesforcesandboxapi-tutorial",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/salesforce.png"
+  },
+  {
+    "title": "SAP OData",
+    "name": "sap",
+    "url": "/sapapi-tutorial",
+    "thirdParty": true,
+    "image": "//auth0.com/saas-collection/img/sap.png"
   }
 ]
