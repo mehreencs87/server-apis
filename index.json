@@ -9,7 +9,7 @@
   {
     "title": "ASP.NET Web API (OWIN)",
     "name": "aspnetweb-owin-api",
-    "url": "/aspnetwebapi-owin-tutorial",
+    "url": "/new/server-apis/webapi-owin",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
