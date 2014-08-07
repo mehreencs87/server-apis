@@ -86,28 +86,28 @@
   {
     "title": "Firebase",
     "name": "firebase",
-    "url": "/firebaseapi-tutorial",
+    "url": "/new/server-apis/firebase",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/firebase.png"
   },
   {
     "title": "Salesforce",
     "name": "salesforce",
-    "url": "/salesforceapi-tutorial",
+    "url": "/new/server-apis/salesforce",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/salesforce.png"
   },
   {
     "title": "Salesforce (sandbox)",
     "name": "salesforce-sandbox",
-    "url": "/salesforcesandboxapi-tutorial",
+    "url": "/new/server-apis/salesforce-sandbox",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/salesforce.png"
   },
   {
     "title": "SAP OData",
-    "name": "sap",
-    "url": "/sapapi-tutorial",
+    "name": "/new/server-apis/aws",
+    "url": "/new/server-apis/sap-odata",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/sap.png"
   }
