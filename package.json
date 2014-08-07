@@ -1,6 +1,6 @@
 {
   "name": "auth0-server-apis",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Server APIs supported by Auth0's service",
   "main": "index.json",
   "scripts": {
