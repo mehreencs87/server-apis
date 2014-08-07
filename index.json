@@ -72,14 +72,14 @@
   {
     "title": "AWS",
     "name": "aws",
-    "url": "/awsapi-tutorial",
+    "url": "/new/server-apis/aws",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/aws.png"
   },
   {
     "title": "Azure Mobile Services",
     "name": "wams",
-    "url": "/wams",
+    "url": "/new/server-apis/azure-mobile-services",
     "thirdParty": true,
     "image": "//auth0.com/platforms-collection/img/azure.png"
   },
