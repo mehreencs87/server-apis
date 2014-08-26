@@ -106,7 +106,7 @@
   },
   {
     "title": "SAP OData",
-    "name": "/new/server-apis/aws",
+    "name": "sap-odata",
     "url": "/new/server-apis/sap-odata",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/sap.png"
