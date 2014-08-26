@@ -5,7 +5,7 @@
 
 ## Adding a new server api
 
-To add a new `server-api` you need to edit the [index.json][index.json] file and add a new dictionary with the following fields:
+To add a new `server-api` you need to edit the [index.json](index.json) file and add a new dictionary with the following fields:
 
 
 - **title**: [`String`] - Display name for the new API doc. Example: `'Server API'`
