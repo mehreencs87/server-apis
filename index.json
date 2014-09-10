@@ -29,7 +29,7 @@
   },
   {
     "title": "Ruby On Rails API",
-    "name": "ror-api",
+    "name": "rails-api",
     "url": "/new/server-apis/rails",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/rails.png"
