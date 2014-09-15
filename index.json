@@ -2,63 +2,70 @@
   {
     "title": "ASP.NET Web API",
     "name": "aspnetweb-api",
-    "url": "/new/server-apis/aspnet-webapi",
+    "url": "/server-apis/aspnet-webapi",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
     "title": "ASP.NET Web API (OWIN)",
     "name": "aspnetweb-owin-api",
-    "url": "/new/server-apis/webapi-owin",
+    "url": "/server-apis/webapi-owin",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
     "title": "Node.js API",
     "name": "node-api",
-    "url": "/new/server-apis/nodejs",
+    "url": "/server-apis/nodejs",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/node.png"
   },
   {
     "title": "Ruby API",
     "name": "ruby-api",
-    "url": "/new/server-apis/ruby",
+    "url": "/server-apis/ruby",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
   {
     "title": "Ruby On Rails API",
     "name": "rails-api",
-    "url": "/new/server-apis/rails",
+    "url": "/server-apis/rails",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
   {
     "title": "PHP API",
     "name": "php-api",
-    "url": "/new/server-apis/php",
+    "url": "/server-apis/php",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
     "title": "PHP (Laravel) API",
     "name": "laravel-api",
-    "url": "/new/server-apis/php-laravel",
+    "url": "/server-apis/php-laravel",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
     "title": "Java API",
     "name": "java-api",
-    "url": "/new/server-apis/java",
+    "url": "/server-apis/java",
+    "thirdParty": false,
+    "image": "//auth0.com/platforms-collection/img/java.png"
+  },
+  {
+    "title": "Spring Security Java API",
+    "name": "java-spring-security",
+    "url": "/server-apis/java-spring-security",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/java.png"
   },
   {
     "title": "Python API",
     "name": "python-api",
-    "url": "/new/server-apis/python",
+    "url": "/server-apis/python",
     "thirdParty": false,
     "image": "//auth0.com/platforms-collection/img/python.png"
   },
@@ -72,42 +79,42 @@
   {
     "title": "AWS",
     "name": "aws",
-    "url": "/new/server-apis/aws",
+    "url": "/server-apis/aws",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/aws.png"
   },
   {
     "title": "Azure Mobile Services",
     "name": "wams",
-    "url": "/new/server-apis/azure-mobile-services",
+    "url": "/server-apis/azure-mobile-services",
     "thirdParty": true,
     "image": "//auth0.com/platforms-collection/img/azure.png"
   },
   {
     "title": "Firebase",
     "name": "firebase",
-    "url": "/new/server-apis/firebase",
+    "url": "/server-apis/firebase",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/firebase.png"
   },
   {
     "title": "Salesforce",
     "name": "salesforce",
-    "url": "/new/server-apis/salesforce",
+    "url": "/server-apis/salesforce",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/salesforce.png"
   },
   {
     "title": "Salesforce (sandbox)",
     "name": "salesforce-sandbox",
-    "url": "/new/server-apis/salesforce-sandbox",
+    "url": "/server-apis/salesforce-sandbox",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/salesforce.png"
   },
   {
     "title": "SAP OData",
     "name": "sap-odata",
-    "url": "/new/server-apis/sap-odata",
+    "url": "/server-apis/sap-odata",
     "thirdParty": true,
     "image": "//auth0.com/saas-collection/img/sap.png"
   }
