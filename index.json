@@ -21,6 +21,12 @@
     "image": "//auth0.com/platforms-collection/img/node.png"
   },
   {
+    "title": "Go",
+    "name": "golang",
+    "url": "/server-apis/golang",
+    "image": "//auth0.com/platforms-collection/img/golang.png"
+  },
+  {
     "title": "Ruby API",
     "name": "ruby-api",
     "url": "/server-apis/ruby",
