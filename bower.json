@@ -5,7 +5,7 @@
     "index.json"
   ],
   "main": "index.json",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "homepage": "https://github.com/auth0/server-apis",
   "authors": [
     "Auth0, Inc. <hello@auth0.com>"
