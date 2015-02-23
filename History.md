@@ -1,4 +1,13 @@
 
+0.2.0 / 2015-02-23
+==================
+
+  * Update resources urls
+  * Release 0.1.12
+  * Added GoLang to the list of APIs
+  * Release 0.1.11
+  * Added Spring Security
+
 0.1.12 / 2014-12-15
 ===================
 
