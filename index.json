@@ -58,16 +58,13 @@
     "title": "Java API",
     "name": "java-api",
     "url": "/server-apis/java",
-<<<<<<< HEAD
     "thirdParty": false,
-    "image": "//auth0.com/platforms-collection/img/java.png"
+    "image": "//auth0.com/lib/platforms-collection/img/java.png"
   },
   {
     "title": "Spring Security Java API",
     "name": "java-spring-security",
     "url": "/server-apis/java-spring-security",
-=======
->>>>>>> Update resources urls
     "thirdParty": false,
     "image": "//auth0.com/lib/platforms-collection/img/java.png"
   },
