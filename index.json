@@ -24,7 +24,7 @@
     "title": "Go",
     "name": "golang",
     "url": "/server-apis/golang",
-    "image": "//auth0.com/platforms-collection/img/golang.png"
+    "image": "//auth0.com/lib/platforms-collection/img/golang.png"
   },
   {
     "title": "Ruby API",
