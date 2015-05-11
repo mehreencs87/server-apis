@@ -50,6 +50,13 @@
   {
     "title": "PHP (Laravel) API",
     "name": "laravel-api",
+    "url": "/server-apis/php-symfony",
+    "thirdParty": false,
+    "image": "//auth0.com/lib/platforms-collection/img/php.png"
+  },
+  {
+    "title": "PHP (Symfony) API",
+    "name": "symfony-api",
     "url": "/server-apis/php-laravel",
     "thirdParty": false,
     "image": "//auth0.com/lib/platforms-collection/img/php.png"
