@@ -1,4 +1,11 @@
 
+0.2.3 / 2015-05-27
+==================
+
+  * Update readme.md with release flow documentation
+  * Added symfony api
+  * Added symfony api
+
 0.2.2 / 2015-02-26
 ==================
 
