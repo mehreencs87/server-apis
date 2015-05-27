@@ -85,7 +85,7 @@
   {
     "title": ".NET WCF",
     "name": "wcf-api",
-    "url": "/wcf-tutorial",
+    "url": "/server-apis/wcf-tutorial",
     "thirdParty": false,
     "image": "//auth0.com/lib/platforms-collection/img/wcf.png"
   },
