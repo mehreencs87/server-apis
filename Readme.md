@@ -13,3 +13,23 @@ To add a new `server-api` you need to edit the [index.json](index.json) file and
 - **url**: [`String`] - Path to the main documentation at https://docs.auth0.com. Example: `/new/server-apis/nodejs` will convert to https://docs.auth0.com/new/server-apis/nodejs.
 - **image**: [`String`] - Full url for a representative image. Example: https://auth0.com/platforms-collection/img/php.png.
 - **thirdParty**: [`Boolean`] - Wheter is or isn't a 3rd party API. Examples: `aws`, `salesforce`, `firebase`, `wams`, etc.
+
+
+## Release
+
+Make sure you have [bump](https://github.com/ianstormtaylor/bump) and [git-extras](https://github.com/tj/git-extras)
+Follow the next steps:
+
+``` bash
+  # Once finished your changes and commit them, run:
+  bump {patch,minor,major,VERSION}
+
+  # Then create the changelog for the release, using
+  # the retrieved version by last command:
+  git changelog --tag <version>
+
+  # Then, just run:
+  git add . && git release <version>
+
+  # Done!
+```
